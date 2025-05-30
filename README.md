@@ -1,2 +1,2 @@
 # Viginere
-Viginere cipher
+Viginere cipher - decryption 
